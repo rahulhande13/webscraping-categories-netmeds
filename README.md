@@ -1,4 +1,4 @@
-# Scraping Selected Categories on netmeds.com using Python
+# Scraping Selected Categories on netmeds.com using Python and Beautiful Soup.
 
 netmeds.com is a one-stop healthcare shop containing list of product with different categories. There are exclusive discounts all year round. They also call themselves as India Ki Pharmacy where consumer can buy medicines and wellness products using online portal or app.
 
