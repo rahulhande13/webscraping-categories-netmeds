@@ -2,6 +2,8 @@
 
 Check out Jupyter Notebook here : https://jovian.com/rahulhande2780/finalscrape-netmeds-com-project
 
+After scaping the data is stored in CSV format as Diabetic_Support.csv
+
 netmeds.com is a one-stop healthcare shop containing list of product with different categories. There are exclusive discounts all year round. They also call themselves as India Ki Pharmacy where consumer can buy medicines and wellness products using online portal or app.
 
 The page https://www.netmeds.com/non-prescriptions/diabetes-support provides a list of categories on netmeds.com. In this project, we will select category and retrieve information from this page using web scraping : the process of extracting information from a website in an automated fashion using code.
